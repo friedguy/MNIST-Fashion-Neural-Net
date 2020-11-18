@@ -1,0 +1,7 @@
+/venv/etc/
+/venv/Include/
+/venv/Lib/
+/venv/Lib/site-packages/
+/venv/Scripts/
+/venv/share/
+/venv/pyvenv.cfg
